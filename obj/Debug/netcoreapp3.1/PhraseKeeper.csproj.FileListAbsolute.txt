@@ -1,0 +1,12 @@
+C:\Users\Kimakim\source\repos\PhraseKeeper\bin\Debug\netcoreapp3.1\PhraseKeeper.exe
+C:\Users\Kimakim\source\repos\PhraseKeeper\bin\Debug\netcoreapp3.1\PhraseKeeper.deps.json
+C:\Users\Kimakim\source\repos\PhraseKeeper\bin\Debug\netcoreapp3.1\PhraseKeeper.runtimeconfig.json
+C:\Users\Kimakim\source\repos\PhraseKeeper\bin\Debug\netcoreapp3.1\PhraseKeeper.runtimeconfig.dev.json
+C:\Users\Kimakim\source\repos\PhraseKeeper\bin\Debug\netcoreapp3.1\PhraseKeeper.dll
+C:\Users\Kimakim\source\repos\PhraseKeeper\bin\Debug\netcoreapp3.1\PhraseKeeper.pdb
+C:\Users\Kimakim\source\repos\PhraseKeeper\obj\Debug\netcoreapp3.1\PhraseKeeper.AssemblyInfoInputs.cache
+C:\Users\Kimakim\source\repos\PhraseKeeper\obj\Debug\netcoreapp3.1\PhraseKeeper.AssemblyInfo.cs
+C:\Users\Kimakim\source\repos\PhraseKeeper\obj\Debug\netcoreapp3.1\PhraseKeeper.csproj.CoreCompileInputs.cache
+C:\Users\Kimakim\source\repos\PhraseKeeper\obj\Debug\netcoreapp3.1\PhraseKeeper.dll
+C:\Users\Kimakim\source\repos\PhraseKeeper\obj\Debug\netcoreapp3.1\PhraseKeeper.pdb
+C:\Users\Kimakim\source\repos\PhraseKeeper\obj\Debug\netcoreapp3.1\PhraseKeeper.genruntimeconfig.cache
